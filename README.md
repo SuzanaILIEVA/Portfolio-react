@@ -15,3 +15,10 @@ Built using React libraries, styled with SCSS.
 - react-router-dom
 - sass
 - @fortawesome/fontawesome-svg-core
+
+
+## Gif
+
+![](/public/portfolio1.gif)
+
+
